@@ -5,6 +5,9 @@ weight: 1
 # Les réglages dynamiques
 
 ## L'écoute
+
+// todo: Add sections "how to explain it to beginners" (hint info) 
+
 Relâchons tous les réglages sauf celui de la patte d'oie qui restera bien tendu et celui de la bordure qui sera moyennement pris, et plaçons la bôme perpendiculaire au bateau.
 
 La prise de l'écoute a deux effets bien distincts :
