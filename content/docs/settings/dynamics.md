@@ -21,7 +21,11 @@ La prise de l'écoute a deux effets bien distincts :
 {{< /columns >}}
 
 Ce cintre du mât résorbe le rond de guindant et aplatit la voile. La tension exercée entre la têtière et le point d'écoute de la voile "ferme la chute", c'est à dire s'oppose à son vrillage.
+
 ## Le hale-bas
+
+// todo: Add sections "how to explain it to beginners" (hint info) 
+
 Son action est proche de l'effet 2 de l'écoute. En rapprochant ses 2 insertions (le 1/4 avant de la bôme et la partie du mât proche de l'étambrai), il exerce :
 
 * une tension verticale qui fait "fermer la chute" et cintrer le mât ainsi que la bôme. Ceci provoque l'aplatissement de la voile et la réduction de son vrillage.
@@ -42,6 +46,8 @@ Au portant le halebas joue un rôle spécifique puisqu'il permet de retenir la b
 {{< /columns >}}
 
 ## Le cunningham
+
+// todo: Add sections "how to explain it to beginners" (hint info) 
 
 Il exerce une tension verticale sur le guindant de la voile. 
 
@@ -64,12 +70,19 @@ Mais là n'est pas le seul intérêt du cunningham. Ses fonctions essentielles s
     * Cela permet à la partie supérieure de la voile de "s'effacer" dans la risée, diminuant ainsi la force aérodynamique. Ce vrillage constitue dans une certaine mesure une autorégulation des surventes par le gréement.
 
 ## La bordure
+
+// todo: Add sections "how to explain it to beginners" (hint info) 
+
 Le réglage de bordure permet de doser le creux général que l'on donne à la voile et donc la puissance de celle-ci. Il existe toutefois une limite au-delà de laquelle détendre la bordure cesse d'augmenter la puissance et transforme la voile en "sac", perturbant ainsi les écoulements de l'air autour du profil.
 
 Cette limite peut s'objectiver en mesurant la distance maximale séparant la bôme de la voile sur une perpendiculaire aux deux. De nombreux laseristes considèrent qu'elle est atteinte lorsque le pouce et l'auriculaire, écartés au maximum, joignent ces deux points (soit environ 20 cm).
 
 {{< figure caption="Réglage de la bordure" src="../images/bordure.svg" >}}
+
 ## La patte d'oie
+
+// todo: Add sections "how to explain it to beginners" (hint info) 
+
 En association avec le hale-bas, elle pallie l'absence de chariot d'écoute en maintenant la bôme excentrée au près.
 
 Pour remplir efficacement ce rôle, il importe que la patte d'oie soit fortement étarquée. A défaut, la bôme s'élève et rentre vers le centre du bateau ; ainsi lorsque le réglage de patte d'oie est détendu, la poulie guidée par celui-ci se trouve rehaussée. La tension verticale qu'exerce l'écoute, en rapprochant cette poulie à celle fixée sur l'extrémité arrière de la bôme est alors diminuée.
@@ -85,6 +98,8 @@ Pour régler la patte d'oie, on l'étarque au maximum et si elle gêne le passag
 
 ## La dérive 
 
+// todo: Add sections "how to explain it to beginners" (hint info) 
+
 {{< figure caption="Réglage de la dérive" src="../images/derive.svg" >}}
 
 Le laser présente une carène relativement plate et des appendices de faibles surfaces. 
@@ -98,6 +113,9 @@ Les deux défauts les plus couramment observés chez les stagiaires:
 * Ne pas enfoncer la dérive à fond! Il faut utiliser toute la surface antidérive possible, ne vous privez pas de 2 centimètres salutaires. 
 
 ## La sangle de rappel
+
+// todo: Add sections "how to explain it to beginners" (hint info) 
+
 De nombreux laseristes optent pour une sangle de rappel réglable. Ce réglage est très important car il permet de moduler le compromis confort/couple de rappel nécessaire en fonction de l'allure et des conditions de vent et de mer rencontrés.
 
 Nous présentons le montage le plus courant:
